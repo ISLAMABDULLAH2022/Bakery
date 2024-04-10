@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/** secton-1 **/
+.section1{
+    background-image: url(../img/EA1243E167.jpg);
+    background-size: 100% 100%;
+} 
+.logo{ 
+    width: 15%;
+}
+.text-section1{
+    font-size: 25px;
+}
+.btn1{
+    background-color: #8e7754;
+    border: #8e7754;
+    border-radius: 5px;
+} 
+.btn1:hover{
+    color: black !important; 
+}
+/** secton-2 **/
+.fs{
+    font-size: 120%;
+}
+.opacity {
+    opacity: .7;
+}
+/** secton-3 **/
+
+/** footer * */ 
+footer{
+    background-color: #464444;
+    padding: 20px;
+    color: #2a2a2a76;
+    font-weight: 500;
+}
+
